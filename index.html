@@ -1,58 +1,64 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+	<head>
+		<title>What's your fucking weapon?</title>
+		<meta name="description" content="A RPG weapon generator" />
+		<meta name="copyright" content="Copyright Scott F. Crawford 2015. All Rights Reserved." />
+		<meta name="author" content="Scott F. Crawford" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" media="(max-width: 800px)" href="main.css" />
+		<link rel="apple-touch-icon" href="images/custom_icon.png"/>
+		<link rel="stylesheet" href="styles/main.css"/>
+		<link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon-180x180.png">
+		<meta name="apple-mobile-web-app-title" content="What's your fucking weapon?">
+		<link rel="icon" type="image/png" href="favicons/favicon-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="favicons/favicon-160x160.png" sizes="160x160">
+		<link rel="icon" type="image/png" href="favicons/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="favicons/favicon-16x16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="favicons/favicon-32x32.png" sizes="32x32">
+		<meta name="msapplication-TileColor" content="#b91d47">
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+		<meta name="application-name" content="What's your fucking weapon?">
+	</head>
+	<body>
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Weapongenerator : ">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Weapongenerator</title>
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/scottyboy76567/WeaponGenerator">View on GitHub</a>
-
-          <h1 id="project_title">Weapongenerator</h1>
-          <h2 id="project_tagline"></h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/scottyboy76567/WeaponGenerator/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/scottyboy76567/WeaponGenerator/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>
-<a id="weapongenerator" class="anchor" href="#weapongenerator" aria-hidden="true"><span class="octicon octicon-link"></span></a>WeaponGenerator</h1>
-
-<p>A weapon generator for all your RPGs. Made from the WTF Engine.</p>
-
-<pre><code>$echo "My Page" &gt; index.html
-$git add index.html
-$git commit -a -m "First pages commit"
-$git push origin gh-pages
-</code></pre>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Weapongenerator maintained by <a href="https://github.com/scottyboy76567">scottyboy76567</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
+		<div id="wrapper">
+		    <header>
+		        <h1>What's your fucking weapon?</h1>
+		    </header>
+		
+		    <article>
+		        <div id="output">
+		            <noscript>
+		                <dl>
+		                    <p>What the fuck! You don't even have JavaScript enabled! This isn't fucking magic!</p>
+		                    <p>You need to enable it to generate a kickass fucking character backstory...</p>
+		                </dl>
+		            </noscript>
+		        </div>
+		        <a id="generate" href="#" title="Give me another one!"></a>
+		    </article>
+		     
+		    <footer>
+		    	
+		    	<div id="credit">Created by Scott</div>
+		        <div id="about">If you make it, make sure you make it <a href="http://www.opensource.org/" target="blank">Open Source</a></div>
+		        <div id="credit">Built with <a href="https://github.com/soulwire/WTFEngine" title="An HTML / CSS / JavaScript template for creating WhatTheFuckIsMyMashup.com style web sites" target="_blank">WTF Engine</a> by <a href="http://blog.soulwire.co.uk/" title="Made by Justin Windle @soulwire">Justin</a></div>
+		        <div>Inspired by <a href="http://whatthefuckshouldimakefordinner.com/" target="_blank">WTFSIMFD<a/></div>
+		    </footer>
+		</div>
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.1.2/zepto.min.js"></script> -->
+		<script>window.Zepto || document.write('<script src="scripts/vendor/zepto.min.js"><\/script>')</script>
+		<script src="scripts/wtf.js"></script>
+		<script src="scripts/main.js"></script>
+		
+	</body>
 </html>
