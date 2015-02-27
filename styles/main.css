@@ -50,12 +50,7 @@ a {
     
 }
 
-article a {
-    
-    position: absolute;
-    left: 200px;
-    top: 500px;
-}
+
 
 ins {
     background-color: #ff9;
@@ -169,6 +164,10 @@ noscript {
     text-decoration: none;
     font-size: 20px;
     color: #363635;
+    position: absolute;
+    left: 200px;
+    top: 500px;
+
 }
 
 #generate:hover {
