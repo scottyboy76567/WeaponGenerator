@@ -162,8 +162,8 @@ noscript {
     color: #363635;
     position: absolute;
     bottom: 20px;
-    
-    
+    white-space: nowrap;
+    overflow: hidden;
     line-height: 16px;
     text-align: left;
     
