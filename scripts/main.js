@@ -19,7 +19,7 @@ $(function() {
              "@weapon with @attach",
              "@weapon made of @material",
              "@weapon of @noun",
-             "@weapon of @race"+"-slaying",
+             "@weapon of @race -slaying",
              
          ],
          weapon: [
