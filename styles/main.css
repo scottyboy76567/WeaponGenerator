@@ -162,9 +162,9 @@ noscript {
     color: #363635;
     position: absolute;
     bottom: 20px;
-    margin: 12px 24px;
-    text-transform: none;
-    /*line-height: 16px;*/
+    
+    
+    line-height: 16px;
     text-align: left;
     
     
