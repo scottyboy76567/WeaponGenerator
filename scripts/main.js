@@ -52,7 +52,6 @@ $(function() {
              "lance",
              
              
-             
          ],
          adj: [
              "magical",
@@ -70,6 +69,8 @@ $(function() {
              "acid",
              "slimy",
              "glowing",
+             "gnomish",
+             "rusted",
              
          ],
          attach: [
@@ -81,6 +82,7 @@ $(function() {
              "runes",
              "elaborate decoration",
              "a hook",
+             
              
          ], 
          material: [
@@ -94,7 +96,9 @@ $(function() {
             "stone",
             "silver",
             "meteorite",
-            "shadow",
+            "shadows",
+            "wood",
+            "obsidian",
             
         ],
         noun: [
@@ -122,6 +126,16 @@ $(function() {
             "rat",
             "dragon",
             "demon",
+            "giant",
+            "owlbear",
+            "zombie",
+            "ghoul",
+            "human",
+            "skeleton",
+            "elf",
+            "dwarf",
+            "gnome",
+            "fairy",
         ], 
             
      });
