@@ -19,6 +19,7 @@ $(function() {
              "@weapon with @attach",
              "@weapon made of @material",
              "@weapon of @noun",
+             "@weapon of @race"+"-slaying",
              
          ],
          weapon: [
@@ -114,6 +115,13 @@ $(function() {
             "sacrifice",
             
         ], 
+        
+        race: [
+            "orc",
+            "goblin",
+            "rat",
+            "dragon",
+            "demon",
             
             
      });
