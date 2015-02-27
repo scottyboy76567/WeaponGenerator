@@ -161,7 +161,7 @@ noscript {
     font-size: 20px;
     color: #363635;
     position: absolute;
-    bottom: 50px;
+    bottom: 10px;
 }
 
 #generate:hover {
