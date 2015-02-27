@@ -161,8 +161,8 @@ noscript {
     font-size: 20px;
     color: #363635;
     position: absolute;
-    bottom: 10px;
-    text-wrap:none;
+    bottom: 30px;
+    margin: 60px 0;
 }
 
 #generate:hover {
@@ -175,6 +175,7 @@ aside {
     margin: 12px 8px;
     right: 0;
     top: 0;
+    
 }
 
 #share li {
