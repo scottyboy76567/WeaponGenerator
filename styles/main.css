@@ -162,6 +162,7 @@ noscript {
     color: #363635;
     position: absolute;
     bottom: 10px;
+    text-wrap:none;
 }
 
 #generate:hover {
