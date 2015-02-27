@@ -160,6 +160,7 @@ noscript {
     text-decoration: none;
     font-size: 20px;
     color: #363635;
+    position: absolute;
 }
 
 #generate:hover {
