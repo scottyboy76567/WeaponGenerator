@@ -22,7 +22,7 @@ $(function() {
              "@weapon of @race"+"-slaying",
              "@weapon that @action",
              "@adj @weapon made of @material",
-             "@adj @weapon with @material",
+             "@adj @weapon with @attach",
              "@adj @weapon of @noun",
              "@adj @weapon of @race"+"-slaying",
              "@adj @weapon that @action",
