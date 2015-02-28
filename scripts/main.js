@@ -121,6 +121,7 @@ $(function() {
              "massive",
              "inconveniently large",
              "self-cleaning",
+             "flying",
              
          ],
          attach: [
@@ -211,6 +212,7 @@ $(function() {
         action:  [
             "shoots fire",
             "transforms into a fucking @weapon",
+            "transforms into a fucking @adj @weapon",
             "eats souls",
             "hums softly",
             "vibrates",
@@ -220,6 +222,7 @@ $(function() {
             "shoots lightning",
             "duplicates",
             "hums loudly",
+            "flies",
             
         ],
             
