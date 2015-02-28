@@ -115,7 +115,7 @@ $(function() {
              "celestial",
              "aerodynamic",
              "crippling",
-             "light",
+             "lightweight",
              "heavy",
              "cursed",
              "holy",
