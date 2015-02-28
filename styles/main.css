@@ -270,12 +270,12 @@ footer a:hover {
     }
 
     #test{
-        position:static;
+        position:relative;
         bottom: 0px;
     }
     #generate {
         font-size: 17px;
-        position:static;
+        position:relative;
         bottom: 0px;
     }
 
