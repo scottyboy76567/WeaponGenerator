@@ -129,6 +129,9 @@ $(function() {
              "flying",
              "divine",
              "planar",
+             "badass",
+             "critical",
+             "crushing",
              
          ],
          attach: [
@@ -195,6 +198,8 @@ $(function() {
             "prophecy",
             "the gods",
             "the apocalypse",
+            "slaying",
+            "pacifism",
             
             
         ], 
@@ -233,6 +238,8 @@ $(function() {
             "hums loudly",
             "flies",
             "comes back when you throw it",
+            "grows",
+            "shrinks",
             
         ],
             
