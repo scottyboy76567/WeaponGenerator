@@ -23,7 +23,7 @@ $(function() {
              
          ],
          weapon: [
-             "sword of @noun",
+             "sword",
              "club",
              "knife",
              "arrow",
