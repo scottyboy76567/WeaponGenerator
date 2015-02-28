@@ -240,8 +240,12 @@ footer a:hover {
         margin: 60px 0 30px 0;
         line-height: 40px;
     }
+    #test{
+        position:static;
+        bottom: 0px;
+    }
     #generate{
-        position:initial;
+        position:static;
         bottom: 0px;
     }
 }
@@ -266,12 +270,12 @@ footer a:hover {
     }
 
     #test{
-        position:initial;
+        position:static;
         bottom: 0px;
     }
     #generate {
         font-size: 17px;
-        position:initial;
+        position:static;
         bottom: 0px;
     }
 
