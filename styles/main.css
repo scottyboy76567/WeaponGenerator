@@ -242,6 +242,7 @@ footer a:hover {
     }
     #generate{
         position:initial;
+        bottom: 0px;
     }
 }
 
@@ -266,10 +267,12 @@ footer a:hover {
 
     #test{
         position:initial;
+        bottom: 0px;
     }
     #generate {
         font-size: 17px;
         position:initial;
+        bottom: 0px;
     }
 
     footer {
