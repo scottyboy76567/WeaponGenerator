@@ -240,6 +240,9 @@ footer a:hover {
         margin: 60px 0 30px 0;
         line-height: 40px;
     }
+    #generate{
+        position:initial;
+    }
 }
 
 @media screen and (max-width:570px) {
@@ -266,6 +269,7 @@ footer a:hover {
     }
     #generate {
         font-size: 17px;
+        position:initial;
     }
 
     footer {
