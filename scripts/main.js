@@ -21,6 +21,11 @@ $(function() {
              "@weapon of @noun",
              "@weapon of @race"+"-slaying",
              "@weapon that @action",
+             "@adj @weapon made of @material",
+             "@adj @weapon with @material",
+             "@adj @weapon of @noun",
+             "@adj @weapon of @race"+"-slaying",
+             "@adj @weapon that @action",
              
          ],
          weapon: [
