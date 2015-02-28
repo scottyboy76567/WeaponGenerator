@@ -135,6 +135,15 @@ $(function() {
              "chaotic",
              "evil",
              "defending",
+             "sharp",
+             "slicing",
+             "bashing",
+             "piercing",
+             "pristine",
+             "brand-new",
+             "ancient",
+             "old",
+             
              
              
          ],
@@ -156,6 +165,11 @@ $(function() {
              "a mind of its own",
              "a bad attitude",
              "a demon trapped inside",
+             "a forgotten name",
+             "a forbidden name",
+             "a piece missing",
+             "an unknown enchantment",
+             
              
              
          ], 
@@ -178,6 +192,7 @@ $(function() {
             "tin",
             "steel, folded 1000 times",
             "unicorn horn",
+            "paper",
             
             
         ],
@@ -220,6 +235,7 @@ $(function() {
             "power",
             "life",
             "defense",
+            "mystery",
             
             
         ], 
@@ -274,6 +290,7 @@ $(function() {
             "floats on water",
             "levitates",
             "traps souls",
+            "boils water",
             
             
         ],
