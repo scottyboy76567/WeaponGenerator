@@ -21,6 +21,14 @@ $(function() {
              "@weapon of @noun",
              "@weapon of @race"+"-slaying",
              "@weapon that @action",
+<<<<<<< HEAD
+=======
+             "@adj @weapon made of @material",
+             "@adj @weapon with @attach",
+             "@adj @weapon of @noun",
+             "@adj @weapon of @race"+"-slaying",
+             "@adj @weapon that @action",
+>>>>>>> gh-pages
              
          ],
          weapon: [
@@ -122,6 +130,27 @@ $(function() {
              "inconveniently large",
              "self-cleaning",
              "flying",
+<<<<<<< HEAD
+=======
+             "divine",
+             "planar",
+             "badass",
+             "critical",
+             "crushing",
+             "chaotic",
+             "evil",
+             "defending",
+             "sharp",
+             "slicing",
+             "bashing",
+             "piercing",
+             "pristine",
+             "brand-new",
+             "ancient",
+             "old",
+             
+             
+>>>>>>> gh-pages
              
          ],
          attach: [
@@ -142,6 +171,14 @@ $(function() {
              "a mind of its own",
              "a bad attitude",
              "a demon trapped inside",
+<<<<<<< HEAD
+=======
+             "a forgotten name",
+             "a forbidden name",
+             "a piece missing",
+             "an unknown enchantment",
+             
+>>>>>>> gh-pages
              
              
          ], 
@@ -163,6 +200,11 @@ $(function() {
             "crystal",
             "tin",
             "steel, folded 1000 times",
+<<<<<<< HEAD
+=======
+            "unicorn horn",
+            "paper",
+>>>>>>> gh-pages
             
             
         ],
@@ -186,6 +228,29 @@ $(function() {
             "vengeance",
             "revenge",
             "prophecy",
+<<<<<<< HEAD
+=======
+            "the gods",
+            "the apocalypse",
+            "slaying",
+            "pacifism",
+            "eternal slumber",
+            "summer",
+            "winter",
+            "spring",
+            "autumn",
+            "decapitation",
+            "lock picking",
+            "illusion",
+            "conjuration",
+            "alteration",
+            "strength",
+            "chaos",
+            "power",
+            "life",
+            "defense",
+            "mystery",
+>>>>>>> gh-pages
             
             
         ], 
@@ -207,6 +272,20 @@ $(function() {
             "gnome",
             "fairy",
             "titan",
+<<<<<<< HEAD
+=======
+            "halfling",
+            "unicorn",
+            "ghost",
+            "troll",
+            "kobold",
+            "vampire",
+            "lycanthrope",
+            "spider",
+            "wolf",
+            "drow",
+            
+>>>>>>> gh-pages
         ], 
         
         action:  [
@@ -223,6 +302,17 @@ $(function() {
             "duplicates",
             "hums loudly",
             "flies",
+<<<<<<< HEAD
+=======
+            "comes back when you throw it",
+            "grows",
+            "shrinks",
+            "floats on water",
+            "levitates",
+            "traps souls",
+            "boils water",
+            
+>>>>>>> gh-pages
             
         ],
             
