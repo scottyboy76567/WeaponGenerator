@@ -20,6 +20,7 @@ $(function() {
              "@weapon made of @material",
              "@weapon of @noun",
              "@weapon of @race"+"-slaying",
+             "@weapon that @action",
              
          ],
          weapon: [
@@ -53,7 +54,7 @@ $(function() {
              "sabre",
              "greatsword",
              "shield",
-             "nunchucks",
+             //"nunchucks",
              "hatchet",
              "battle axe",
              "warhammer",
@@ -116,6 +117,11 @@ $(function() {
              "blessed",
              "explosive",
              "bejeweled",
+             "tiny",
+             "massive",
+             "inconveniently large",
+             "self-cleaning",
+             "flying",
              
          ],
          attach: [
@@ -129,7 +135,7 @@ $(function() {
              "a hook",
              "wings",
              "tassels",
-             "engraving",
+             "an engraving",
              "an eye",
              "eyes",
              "rust",
@@ -156,6 +162,7 @@ $(function() {
             "gold",
             "crystal",
             "tin",
+            "steel, folded 1000 times",
             
             
         ],
@@ -178,7 +185,7 @@ $(function() {
             "calamity",
             "vengeance",
             "revenge",
-            "prophecy"
+            "prophecy",
             
             
         ], 
@@ -201,6 +208,23 @@ $(function() {
             "fairy",
             "titan",
         ], 
+        
+        action:  [
+            "shoots fire",
+            "transforms into a fucking @weapon",
+            "transforms into a fucking @adj @weapon",
+            "eats souls",
+            "hums softly",
+            "vibrates",
+            "sings",
+            "talks",
+            "glows",
+            "shoots lightning",
+            "duplicates",
+            "hums loudly",
+            "flies",
+            
+        ],
             
      });
 
