@@ -50,6 +50,29 @@ $(function() {
              "gauntlet",
              "baton",
              "lance",
+             "sabre",
+             "greatsword",
+             "shield",
+             "nunchucks",
+             "hatchet",
+             "battle axe",
+             "warhammer",
+             "wand",
+             "pike",
+             "javelin",
+             "glaive",
+             "chain",
+             "stick",
+             "cleaver",
+             "cutlass",
+             "falchion",
+             "greataxe",
+             "bow",
+             "crossbow",
+             "shuriken",
+             "sling",
+             "slingshot",
+             "net",
              
              
          ],
@@ -71,6 +94,28 @@ $(function() {
              "glowing",
              "gnomish",
              "rusted",
+             "talking",
+             "pointy",
+             "ceremonial",
+             "indestructible",
+             "makeshift",
+             "precise",
+             "lucky",
+             "spiked",
+             "shoddy",
+             "damaged",
+             "demonic",
+             "superior",
+             "celestial",
+             "aerodynamic",
+             "crippling",
+             "light",
+             "heavy",
+             "cursed",
+             "holy",
+             "blessed",
+             "explosive",
+             "bejeweled",
              
          ],
          attach: [
@@ -82,6 +127,15 @@ $(function() {
              "runes",
              "elaborate decoration",
              "a hook",
+             "wings",
+             "tassels",
+             "engraving",
+             "an eye",
+             "eyes",
+             "rust",
+             "a mind of its own",
+             "a bad attitude",
+             "a demon trapped inside",
              
              
          ], 
@@ -99,6 +153,10 @@ $(function() {
             "shadows",
             "wood",
             "obsidian",
+            "gold",
+            "crystal",
+            "tin",
+            
             
         ],
         noun: [
@@ -117,6 +175,11 @@ $(function() {
             "destiny",
             "the night",
             "sacrifice",
+            "calamity",
+            "vengeance",
+            "revenge",
+            "prophecy"
+            
             
         ], 
         
@@ -136,6 +199,7 @@ $(function() {
             "dwarf",
             "gnome",
             "fairy",
+            "titan",
         ], 
             
      });
