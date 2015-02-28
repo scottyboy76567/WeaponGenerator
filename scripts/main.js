@@ -184,7 +184,7 @@ $(function() {
             "calamity",
             "vengeance",
             "revenge",
-            "prophecy"
+            "prophecy",
             
             
         ], 
