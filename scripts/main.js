@@ -132,6 +132,10 @@ $(function() {
              "badass",
              "critical",
              "crushing",
+             "chaotic",
+             "evil",
+             "defending",
+             
              
          ],
          attach: [
@@ -173,6 +177,7 @@ $(function() {
             "crystal",
             "tin",
             "steel, folded 1000 times",
+            "unicorn horn",
             
             
         ],
@@ -200,6 +205,21 @@ $(function() {
             "the apocalypse",
             "slaying",
             "pacifism",
+            "eternal slumber",
+            "summer",
+            "winter",
+            "spring",
+            "autumn",
+            "decapitation",
+            "lock picking",
+            "illusion",
+            "conjuration",
+            "alteration",
+            "strength",
+            "chaos",
+            "power",
+            "life",
+            "defense",
             
             
         ], 
@@ -221,6 +241,17 @@ $(function() {
             "gnome",
             "fairy",
             "titan",
+            "halfling",
+            "unicorn",
+            "ghost",
+            "troll",
+            "kobold",
+            "vampire",
+            "lycanthrope",
+            "spider",
+            "wolf",
+            "drow",
+            
         ], 
         
         action:  [
@@ -240,6 +271,10 @@ $(function() {
             "comes back when you throw it",
             "grows",
             "shrinks",
+            "floats on water",
+            "levitates",
+            "traps souls",
+            
             
         ],
             
