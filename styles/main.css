@@ -261,6 +261,9 @@ footer a:hover {
         line-height: 30px;
     }
 
+    #test{
+        position:initial;
+    }
     #generate {
         font-size: 17px;
     }
