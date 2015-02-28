@@ -135,7 +135,7 @@ $(function() {
              "a hook",
              "wings",
              "tassels",
-             "engraving",
+             "an engraving",
              "an eye",
              "eyes",
              "rust",
