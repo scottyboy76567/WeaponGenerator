@@ -122,6 +122,8 @@ $(function() {
              "inconveniently large",
              "self-cleaning",
              "flying",
+             "divine",
+             "planar",
              
          ],
          attach: [
@@ -186,6 +188,8 @@ $(function() {
             "vengeance",
             "revenge",
             "prophecy",
+            "the gods",
+            "the apocalypse",
             
             
         ], 
@@ -223,6 +227,7 @@ $(function() {
             "duplicates",
             "hums loudly",
             "flies",
+            "comes back when you throw it",
             
         ],
             
