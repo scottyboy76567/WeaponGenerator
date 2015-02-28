@@ -156,10 +156,22 @@ noscript {
     margin: 60px 0;
 }
 
+div #test{
+    white-space: nowrap;
+    overflow: hidden;
+}
+
 #generate {
     text-decoration: none;
     font-size: 20px;
     color: #363635;
+    position: absolute;
+    bottom: 20px;
+    
+    line-height: 16px;
+    text-align: left;
+    
+    
 }
 
 #generate:hover {
@@ -172,6 +184,7 @@ aside {
     margin: 12px 8px;
     right: 0;
     top: 0;
+    
 }
 
 #share li {
@@ -227,6 +240,14 @@ footer a:hover {
         margin: 60px 0 30px 0;
         line-height: 40px;
     }
+    #test{
+        position:static;
+        bottom: 0px;
+    }
+    #generate{
+        position:static;
+        bottom: 0px;
+    }
 }
 
 @media screen and (max-width:570px) {
@@ -248,8 +269,14 @@ footer a:hover {
         line-height: 30px;
     }
 
+    #test{
+        position:relative;
+        bottom: 0px;
+    }
     #generate {
         font-size: 17px;
+        position:relative;
+        bottom: 0px;
     }
 
     footer {
@@ -258,4 +285,3 @@ footer a:hover {
         text-align: center;
     }
 }
-

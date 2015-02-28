@@ -19,6 +19,7 @@ $(function() {
              "@weapon with @attach",
              "@weapon made of @material",
              "@weapon of @noun",
+             "@weapon of @race"+"-slaying",
              
          ],
          weapon: [
@@ -51,7 +52,6 @@ $(function() {
              "lance",
              
              
-             
          ],
          adj: [
              "magical",
@@ -69,6 +69,8 @@ $(function() {
              "acid",
              "slimy",
              "glowing",
+             "gnomish",
+             "rusted",
              
          ],
          attach: [
@@ -80,6 +82,7 @@ $(function() {
              "runes",
              "elaborate decoration",
              "a hook",
+             
              
          ], 
          material: [
@@ -93,7 +96,9 @@ $(function() {
             "stone",
             "silver",
             "meteorite",
-            "shadow",
+            "shadows",
+            "wood",
+            "obsidian",
             
         ],
         noun: [
@@ -114,7 +119,24 @@ $(function() {
             "sacrifice",
             
         ], 
-            
+        
+        race: [
+            "orc",
+            "goblin",
+            "rat",
+            "dragon",
+            "demon",
+            "giant",
+            "owlbear",
+            "zombie",
+            "ghoul",
+            "human",
+            "skeleton",
+            "elf",
+            "dwarf",
+            "gnome",
+            "fairy",
+        ], 
             
      });
 
