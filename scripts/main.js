@@ -21,13 +21,11 @@ $(function() {
              "@weapon of @noun",
              "@weapon of @race"+"-slaying",
              "@weapon that @action",
-
              "@adj @weapon made of @material",
              "@adj @weapon with @attach",
              "@adj @weapon of @noun",
              "@adj @weapon of @race"+"-slaying",
              "@adj @weapon that @action",
-
              
          ],
          weapon: [
@@ -117,7 +115,7 @@ $(function() {
              "celestial",
              "aerodynamic",
              "crippling",
-             "light",
+             "lightweight",
              "heavy",
              "cursed",
              "holy",
@@ -129,7 +127,6 @@ $(function() {
              "inconveniently large",
              "self-cleaning",
              "flying",
-
              "divine",
              "planar",
              "badass",
@@ -148,7 +145,6 @@ $(function() {
              "old",
              
              
-
              
          ],
          attach: [
@@ -169,13 +165,11 @@ $(function() {
              "a mind of its own",
              "a bad attitude",
              "a demon trapped inside",
-
              "a forgotten name",
              "a forbidden name",
              "a piece missing",
              "an unknown enchantment",
              
-
              
              
          ], 
@@ -197,10 +191,8 @@ $(function() {
             "crystal",
             "tin",
             "steel, folded 1000 times",
-
             "unicorn horn",
             "paper",
-
             
             
         ],
@@ -224,7 +216,6 @@ $(function() {
             "vengeance",
             "revenge",
             "prophecy",
-
             "the gods",
             "the apocalypse",
             "slaying",
@@ -245,7 +236,6 @@ $(function() {
             "life",
             "defense",
             "mystery",
-
             
             
         ], 
@@ -267,7 +257,6 @@ $(function() {
             "gnome",
             "fairy",
             "titan",
-
             "halfling",
             "unicorn",
             "ghost",
@@ -279,7 +268,6 @@ $(function() {
             "wolf",
             "drow",
             
-
         ], 
         
         action:  [
@@ -296,7 +284,6 @@ $(function() {
             "duplicates",
             "hums loudly",
             "flies",
-
             "comes back when you throw it",
             "grows",
             "shrinks",
@@ -305,7 +292,6 @@ $(function() {
             "traps souls",
             "boils water",
             
-
             
         ],
             
