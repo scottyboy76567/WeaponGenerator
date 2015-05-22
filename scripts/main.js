@@ -7,12 +7,13 @@ $(function() {
 
          heading: [
              "It's a fucking",
-             "Check this shit out, a fucking",
+             "Check this shit out, it's a fucking",
+             "I have a fucking",
          ],
          response: [
              "Already fucking seen one",
              "Give me a-fucking-nother one",
-             "Don't really give a fuck",
+             "I don't really give a fuck",
          ],
          template: [
              "@adj @weapon",
@@ -50,6 +51,7 @@ $(function() {
              "shortsword",
              "sickle",
              "trident",
+             "bident",
              "scimitar",
              "shovel",
              "pickaxe",
@@ -59,7 +61,7 @@ $(function() {
              "sabre",
              "greatsword",
              "shield",
-             //"nunchucks",
+             "nunchuck set",
              "hatchet",
              "battle axe",
              "warhammer",
@@ -143,7 +145,16 @@ $(function() {
              "brand-new",
              "ancient",
              "old",
-             
+             "steam powered",
+             "blood stained",
+             "slow",
+             "designer",
+             "knock-off",
+             "fake",
+             "thermonuclear",
+             "swiss army",
+             "double",
+             "gnarly",
              
              
          ],
@@ -193,6 +204,8 @@ $(function() {
             "steel, folded 1000 times",
             "unicorn horn",
             "paper",
+            "foam rubber",
+            
             
             
         ],
@@ -236,6 +249,7 @@ $(function() {
             "life",
             "defense",
             "mystery",
+            "personal destruction",
             
             
         ], 
@@ -291,6 +305,7 @@ $(function() {
             "levitates",
             "traps souls",
             "boils water",
+            "always points north",
             
             
         ],
